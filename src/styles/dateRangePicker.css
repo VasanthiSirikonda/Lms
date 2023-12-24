@@ -1,0 +1,15 @@
+.input-container {
+  position: relative;
+}
+
+.input-container input {
+  padding-right: 25px;
+}
+
+.input-container button {
+  position: absolute;
+  top: 50%;
+  right: -7px !important;
+  transform: translateY(-50%);
+  z-index: 5;
+}

@@ -1,0 +1,48 @@
+
+.loginBCard {
+    /* background-color: #fff; */
+    background-image: url('/public/images/verizon_bg1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* height: 500px; */
+    /* width: 80%; */
+    overflow: hidden;
+  }
+  .loginB{
+    /* background-image: linear-gradient(to right, #ffaeaa,#e61b1b); */
+    height: 100vh;
+  }
+ .loginB .headerBDiv {
+    border-bottom-right-radius: 90%;
+    /* background: linear-gradient(20deg, #af0a0a 9%, #ff1d1d 52%, #af0a0a 75%); */
+  }
+  .avatarDiv {
+    background-color: #dedede;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }
+  .socialMediaBg {
+    background-image: linear-gradient(to bottom, #ff0000, #b00404);
+  }
+  .rightContent-logo {
+    width: 150px;
+  }
+  .inForm-logo{
+      width: 100px;
+  }
+  .shadowed-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .underlinedText {
+    text-decoration: underline;
+  }
+  .circleImg{
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background-color: #0d0d0d;
+      bottom: -40px;
+      right: -40px !important;
+  }
+  

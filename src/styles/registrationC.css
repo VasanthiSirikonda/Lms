@@ -1,0 +1,24 @@
+.registrationCard {
+    width: 30%;
+    border-radius: 8px;
+    background: linear-gradient(52deg, #fff 20%, #fb9898 75%);
+  }
+  .registrationScreenC{
+    /* background: linear-gradient(43deg, #000000 9%, #ff0000 52%, #000000 75%); */
+    /* background-image: url('../../public/images/verizon_Registration_bg_2.png'); */
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* padding: 0 0 2.2%; */
+  }
+  .bgRegister {
+    width: 80%;
+    /* height: 80vh; */
+    background-size: cover;
+  }
+  .registrationBody {
+    background: linear-gradient(20deg, #ff8378 9%, #ec2829 75%);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  

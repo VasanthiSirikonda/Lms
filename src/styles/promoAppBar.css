@@ -1,0 +1,30 @@
+.promoAppBar{
+    background-color: #0d0d0d;
+    height: 10px;
+}
+.highlightedTab{
+    border-bottom: 2px solid #fff !important;
+}
+
+
+.container {
+    display: flex;
+  }
+   
+  .main-content {
+    flex-grow: 1;
+    padding: 20px; /* Adjust the padding based on your preference */
+  }
+   
+  /* Adjust the following styles as needed */
+   
+  .react-pro-sidebar {
+    height: calc(100vh - 60px); /* Adjust the height to fill the remaining viewport */
+    position: fixed;
+    left: 0;
+
+  }
+   
+  .react-pro-sidebar.collapsed {
+    width: 80px; /* Adjust the width when collapsed */
+  }

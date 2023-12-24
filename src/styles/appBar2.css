@@ -1,0 +1,48 @@
+.inForm-logo {
+  height: 20px;
+}
+.appBar2 {
+  height: 32px;
+  /* background-color: #d6d5d5cf; */
+  background-color: white;
+}
+.vpimLogo {
+  font-size: 20px;
+  font-weight: bold;
+}
+.dialogbody {
+   /* Dark grey background */
+   /* background-color: #ebe3e3; */
+   
+  color: white; /* White text */
+  border-radius: 30px; /* Rounded corners */
+}
+
+.dialogbody h6 {
+  color: #ff0000; /* Red text for the question */
+}
+
+.dialogbody .me-3 {
+  border-color: #e38686; /* Red border for the 'Cancel' button */
+  color: #b48686; /* Red text for the 'Cancel' button */
+  padding: 6px 0px 0px 5px; /* Adjust button padding to reduce size */
+  font-size: 0.875rem; /* Adjust font size to reduce size */
+}
+
+.dialogbody .me-3:hover {
+  background-color: #ff0000; /* Red background when hovering over the 'Cancel' button */
+  color: white; /* White text when hovering over the 'Cancel' button */
+  
+}
+
+.dialogbody .contained {
+  background-color: #59a0f7; /* Blue background for the 'Logout' button */
+  color: white; /* White text for the 'Logout' button */
+  padding: 6px 0px; /* Adjust button padding to reduce size */
+  font-size: 0.875rem; /* Adjust font size to reduce size */
+}
+
+.dialogbody .contained:hover {
+  background-color: #3c8dbc; /* Darker blue background when hovering over the 'Logout' button */
+}
+

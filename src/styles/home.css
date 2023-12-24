@@ -1,0 +1,42 @@
+.home {
+  overflow-x: hidden;
+}
+.card {
+  min-height: 275px;
+  max-height: 275px;
+  background-color: #65768f !important;
+}
+.chartBg{
+  background-color: #77859d !important;
+}
+.tableHead {
+  background-color: #c10000;
+  font-size: 12px;
+}
+.tableData {
+  font-size: 12px;
+}
+.tableData td {
+  border-right: 1px solid #83b2e8;
+}
+.tableData:nth-child(odd) {
+  background-color: #fff;
+}
+.menuItem:hover {
+  font-weight: bold;
+}
+.input-container {
+  position: relative;
+}
+
+.input-container input {
+  padding-right: 25px;
+}
+
+.input-container button {
+  position: absolute;
+  top: 50%;
+  right: 5px;
+  transform: translateY(-50%);
+  z-index: 5;
+}

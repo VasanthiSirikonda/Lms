@@ -1,0 +1,16 @@
+.statusImgs {
+  height: 50px;
+}
+/* .css-1iyq7zh-MuiDataGrid-columnHeaders {
+  background-color: red;
+  color: white;
+  font-weight: 900;
+} */
+
+.css-1lymaxv-MuiDataGrid-root .MuiDataGrid-row {
+  background-color: #fff;
+}
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel,
+.css-levciy-MuiTablePagination-displayedRows {
+  margin-bottom: 0 !important;
+}

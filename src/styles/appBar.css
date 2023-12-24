@@ -1,0 +1,21 @@
+.dashboardLogoImg{
+    width: 50px;
+    height: 30px;
+}
+.appBarIcon{
+    color: #fff;
+}
+.highlightedTab{
+    border-bottom: 2px solid #fff !important;
+}
+.appBar .breadCrumbs p{
+    margin-right: 10px;
+}
+.appBar .css-1qw21yf-MuiGrid2-root{
+    margin: 0;
+}
+.appBar ::placeholder {
+    color: #fff !important; /* Placeholder text color */
+    font-style: italic; /* Placeholder text font style */
+  }
+ 

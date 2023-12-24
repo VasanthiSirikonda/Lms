@@ -1,0 +1,52 @@
+
+.loginCard {
+  background-color: #fff;
+  /* height: 500px; */
+  width: 80%;
+  overflow: hidden;
+}
+.loginLogo{
+  width: 10rem;
+}
+.headerDiv {
+  border-bottom-right-radius: 90%;
+  background: linear-gradient(20deg, #af0a0a 9%, #ff1d1d 52%, #af0a0a 75%);
+}
+.loginScreen{
+  background: linear-gradient(43deg, rgb(174, 170, 190) 38%, #7a8bc7 56%, #332ba3 75%);
+  height: 100vh;
+  padding: 1% 0 2.5%;
+}
+.loginScreen .loginBtn{
+  /* background: linear-gradient(to right,#35d9f6,#77a3bd); */
+}
+.avatarDiv {
+  background-color: #dedede;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.socialMediaBg {
+  background-image: linear-gradient(to bottom, #ff0000, #b00404);
+}
+.rightContent-logo {
+  width: 150px;
+}
+.inForm-logo{
+    width: 100px;
+}
+.shadowed-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.underlinedText {
+  text-decoration: underline;
+}
+.circleImg{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #0d0d0d;
+    bottom: -40px;
+    right: -40px !important;
+}
+
